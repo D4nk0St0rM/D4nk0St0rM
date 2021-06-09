@@ -1,6 +1,6 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 
-I'm studying toward my OSCP as I switch careers.
+I'm studying toward OSCP as I switch careers.
 
 You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
 
