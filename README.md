@@ -1,15 +1,19 @@
-#### `I'm Smart Enough to Know That I'm Dumb`- _Richard Feynman_
-<p align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜 & curious hackers/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-</p>
+<h2><p align="center">
+    `I'm Smart Enough to Know That I'm Dumb`
+    </p></h2>
+
+<h2> <p align="center">
+    𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜 & curious hackers/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+    </p></h2>
+
 
 
 <img align='left' src='images/OUBghqZ.gif' width='200"'>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<p align="center">
-<h2><b> I'm currently studying for OSCP as I switch careers </b><br></h2>
-</p>
+<h2><p align="center">
+I'm currently studying for OSCP as I switch careers
+</p></h2>
 
 <p align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=t-bgRQfeW64
