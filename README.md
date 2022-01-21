@@ -1,3 +1,5 @@
+#### `I'm Smart Enough to Know That I'm Dumb`- _Richard Feynman_
+    
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜 & curious hackers/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
@@ -32,7 +34,19 @@ You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=D4nk0St0rM.D4nk0St0rM)
+    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<a href="https://github.com/d4nk0st0rm/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=d4nk0st0rm&repo=pentesting_ethical_hacking" />
+</a>
+
+
 </p>
+
+
 
 <!--
 **D4nk0St0rM/D4nk0St0rM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
