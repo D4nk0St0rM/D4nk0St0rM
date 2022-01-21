@@ -6,15 +6,18 @@
 
 I'm studying OSCP as I switch careers.
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=t-bgRQfeW64
+" target="_blank"><img src="http://img.youtube.com/vi/t-bgRQfeW64/0.jpg" 
+alt="Try Harder" width="240" height="180" border="10" /></a>
+
+
 You can find me on [![LinkedIn][2.2]][2].
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-[1]: https://twitter.com/D4nk0St0rM
 [2]: https://linkedin.com/in/mjmchale
 <!--
 <p align="center">
-    <a href="https://twitter.com/D4nk0St0rM"><img src="https://img.shields.io/twitter/follow/D4nk0St0rM?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
+
     <a href="https://github.com/D4nk0St0rM"><img src="https://img.shields.io/github/followers/D4nk0St0rM?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
 </p>
 -->
@@ -38,12 +41,8 @@ You can find me on [![LinkedIn][2.2]][2].
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<a href="https://github.com/d4nk0st0rm/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=d4nk0st0rm&repo=pentesting_ethical_hacking" />
-</a>
+</details>
 
-
-</p>
 
 
 
@@ -60,6 +59,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://github.com/d4nk0st0rm/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=d4nk0st0rm&repo=pentesting_ethical_hacking" />
+</a>
 -->
 
 
