@@ -3,7 +3,7 @@
     </p></h2>
 
 <h2> <p align="center">
-    𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜 & curious hackers/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+    𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜 />! & curious hackers <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
     </p></h2>
 
 
