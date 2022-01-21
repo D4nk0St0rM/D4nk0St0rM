@@ -1,15 +1,21 @@
 #### `I'm Smart Enough to Know That I'm Dumb`- _Richard Feynman_
-    
+<p align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜 & curious hackers/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+</p>
 
+
+<img align='left' src='images/OUBghqZ.gif' width='200"'>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I'm studying OSCP as I switch careers.
+<p align="center">
+<b> I'm currently studying for OSCP as I switch careers </b><br>
+</p>
 
+<p align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=t-bgRQfeW64
 " target="_blank"><img src="http://img.youtube.com/vi/t-bgRQfeW64/0.jpg" 
-alt="Try Harder" width="240" height="180" border="10" /></a>
-
+alt="Try Harder" width="350" height="180" border="2" /></a>
+</p>
 
 You can find me on [![LinkedIn][2.2]][2].
 
