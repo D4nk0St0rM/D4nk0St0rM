@@ -8,7 +8,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <p align="center">
-<b> I'm currently studying for OSCP as I switch careers </b><br>
+<h2><b> I'm currently studying for OSCP as I switch careers </b><br></h2>
 </p>
 
 <p align="center">
