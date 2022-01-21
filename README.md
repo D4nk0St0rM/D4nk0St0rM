@@ -1,5 +1,6 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 curious hackers <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜 & curious hackers/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 I'm studying OSCP as I switch careers.
 
@@ -29,6 +30,8 @@ You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4nk0St0rM&hide_title=false&exclude_repo=D4nk0St0rM.github.io&langs_count=3&layout=default&hide_border=false&bg_color=1a1a1a&text_color=c9cacc&title_color=ffffff" />
 </a>
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=D4nk0St0rM.D4nk0St0rM)
 </p>
 
 <!--
@@ -45,3 +48,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
