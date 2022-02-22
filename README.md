@@ -1,3 +1,4 @@
+
 <!-- SVG Typing Animation  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=9AA6B2&size=32&center=true&vCenter=true&lines=+Welcome+visitor)](https://git.io/typing-svg)
 
@@ -10,9 +11,9 @@
     </p></h2>
 
 
-
-<img align='left' src='images/OUBghqZ.gif' width='200"'>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<p align="center">
+<img align="center" src='images/OUBghqZ.gif' width='200"'>
+</p>
 
 <h2><p align="center">
 I'm currently studying for OSCP as I switch careers
