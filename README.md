@@ -1,9 +1,4 @@
 
-<p align="center">
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=D4nk0St0rM.D4nk0St0rM)
-</p>
 
 
 <!-- SVG Typing Animation  -->
@@ -59,7 +54,12 @@ alt="Try Harder" width="350" height="180" border="2" /></a>
 
 </p>
 
+<p align="center">
+    <img src ="https://github.com/D4nk0St0rM/pentesting_ethical_hacking/blob/main/assets/2021-member-badge.png" />
 
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=D4nk0St0rM.D4nk0St0rM)
+</p>
 
 
 <!--
