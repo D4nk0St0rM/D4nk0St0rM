@@ -16,7 +16,7 @@
 </p>
 
 <h2><p align="center">
-I'm currently studying for OSCP as I switch careers
+I'm currently focused on OSCP as I switch careers
 </p></h2>
 
 <p align="center">
