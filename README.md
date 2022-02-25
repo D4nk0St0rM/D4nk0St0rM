@@ -1,6 +1,6 @@
 
 <!-- SVG Typing Animation  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=9AA6B2&size=32&center=true&vCenter=true&lines=+Welcome+visitor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=9AA6B2&size=20&center=true&vcenter=true&lines=+SpReAd+L0vE+and+ShArE+Kn0wLeDgE)](https://git.io/typing-svg)
 
 <h2><p align="center">
     `I'm Smart Enough to Know That I'm Dumb`
