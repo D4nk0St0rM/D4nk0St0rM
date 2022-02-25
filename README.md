@@ -42,12 +42,6 @@ I'm currently focused on OSCP as I switch careers
 alt="Try Harder" width="350" height="180" border="2" /></a>
 </p>
 
-<!--
-<p align="center">
-
-    <a href="https://github.com/D4nk0St0rM"><img src="https://img.shields.io/github/followers/D4nk0St0rM?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
-</p>
--->
 ---
 
 <p align="center">
@@ -57,11 +51,7 @@ alt="Try Harder" width="350" height="180" border="2" /></a>
 </a>
 -->
 
-<a href="https://github.com/D4nk0St0rM/D4nk0St0rM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4nk0St0rM&hide_title=false&exclude_repo=D4nk0St0rM.github.io&langs_count=3&layout=default&hide_border=false&bg_color=1a1a1a&text_color=c9cacc&title_color=ffffff" />
-</a>
 
----
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
