@@ -49,7 +49,6 @@ alt="Try Harder" width="350" height="180" border="2" /></a>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=D4nk0St0rM&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4nk0St0rM&layout=compact&count_private=true&theme=gruvbox" />
 
 </p>
