@@ -1,6 +1,6 @@
 <!-- SVG Typing Animation  -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%231A5A76&size=30&duration=3000&center=true&vCenter=true&multiline=true&width=1200&height=150&lines=D4nk0St0rM;SpReAd+L0vE;ShArE+Kn0wLeDgE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%231023EE&size=30&duration=3000&center=true&vCenter=true&multiline=true&width=1200&height=150&lines=D4nk0St0rM;SpReAd+L0vE;ShArE+Kn0wLeDgE)](https://git.io/typing-svg)
 ---
 
 
