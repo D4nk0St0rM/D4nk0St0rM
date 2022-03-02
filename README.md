@@ -1,9 +1,6 @@
-
-
-
 <!-- SVG Typing Animation  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=9AA6B2&size=20&center=true&vcenter=true&lines=+SpReAd+L0vE+and+ShArE+Kn0wLeDgE)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%231A5A76&size=30&duration=3000&center=true&vCenter=true&multiline=true&width=1200&height=150&lines=D4nk0St0rM;SpReAd+L0vE;ShArE+Kn0wLeDgE)](https://git.io/typing-svg)
 ---
 
 
@@ -14,7 +11,7 @@
 
 
 <h2> <p align="center">
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜 />! & curious hackers <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+    𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜 />! & curious hackers 
     </p></h2>
 
 <p align="center">
@@ -59,6 +56,7 @@ alt="Try Harder" width="350" height="180" border="2" /></a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=D4nk0St0rM.D4nk0St0rM)
 </p>
+
 
 
 <!--
