@@ -51,7 +51,7 @@ alt="Try Harder" width="350" height="180" border="2" /></a>
 <p align="center">
     <img src ="https://github.com/D4nk0St0rM/pentesting_ethical_hacking/blob/main/assets/2021-member-badge.png" />
     
-    <img src ="https://github.com/D4nk0St0rM/pentesting_ethical_hacking/blob/main/assets/member-badge-2022b.png" />
+    <img src ="images/member-badge-2022b.png" />
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=D4nk0St0rM.D4nk0St0rM)
