@@ -4,9 +4,9 @@
 ---
 
 
-<h2><p align="center">
+<h3><p align="center">
     `I'm Smart Enough to Know That I'm Dumb`
-    </p></h2>
+    </p></h3>
 
 <h2> <p align="center">
     𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜 />! & curious hackers 
