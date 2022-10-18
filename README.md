@@ -17,8 +17,7 @@
 </p>
 
 <h2><p align="center">
-I'm currently focused on Ethical Hacking as I switch careers
-    
+  
 ---
 
     
