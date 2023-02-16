@@ -25,11 +25,6 @@
 
 </p></h2>
 
-<p align="center">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=t-bgRQfeW64
-" target="_blank"><img src="http://img.youtube.com/vi/t-bgRQfeW64/0.jpg" 
-alt="Try Harder" width="350" height="180" border="2" /></a>
-</p>
 
 
 
@@ -47,11 +42,17 @@ alt="Try Harder" width="350" height="180" border="2" /></a>
 
 </p>
 
+
+ <p align="center">
+    <img src ="images/eff-2023-member-member.jpg" />
+    
+ <p align="center">
+    <img src ="images/member-badge-2022b.png" />
+ 
 <p align="center">
     <img src ="https://github.com/D4nk0St0rM/pentesting_ethical_hacking/blob/main/assets/2021-member-badge.png" />
 
- <p align="center">
-    <img src ="images/member-badge-2022b.png" />
+    
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=D4nk0St0rM.D4nk0St0rM)
 </p>
